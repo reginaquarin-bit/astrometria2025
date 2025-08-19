@@ -1,2 +1,2 @@
-#Asteometria2025
+#Astrometria2025
 
